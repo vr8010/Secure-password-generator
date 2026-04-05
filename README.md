@@ -16,28 +16,32 @@ Python 3
 random module
 string module
 📂 Project Structure
+```
 Secure-password-generator
 │
 ├── password_generator.py
 └── README.md
+```
 ⚙️ Installation
 
 Clone the repository:
-
+```
 git clone https://github.com/vr8010/Secure-password-generator.git
-
+```
 Go to the project folder:
-
+```
 cd Secure-password-generator
+```
 ▶️ Usage
 
 Run the script using Python:
-
+```
 python password_generator.py
-
+```
 Example output:
-
+```
 Generated Password: A9#kP2@Lm8!Q
+```
 🔐 Why Strong Passwords Matter
 
 Using strong passwords is one of the most important ways to protect your accounts. Security experts recommend passwords with multiple character types and at least 12–16 characters to prevent brute-force attacks.
