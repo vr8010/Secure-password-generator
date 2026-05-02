@@ -77,7 +77,10 @@ def main():
         print()
         print("Generated Password:", password)
         print()
-        
+
+
+
+    
     except KeyboardInterrupt:
         print("\n\nPassword generation cancelled.")
         sys.exit(0)
